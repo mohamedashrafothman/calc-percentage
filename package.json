@@ -1,0 +1,15 @@
+{
+  "name": "percent.js",
+  "version": "0.1.0",
+  "description": "A simple function to convert numbers to string percentages with options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Mohamed Ashraf <mohamedashrafothman@gmail.com> (https://mohamedashrafothman.github.io/portfolio/)",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
