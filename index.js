@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * Percentage Function that takes two parameter and return persentage
  * By: Mohamed Ashraf Othman

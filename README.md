@@ -61,14 +61,14 @@ Type: `number`
 
 Total that `val` should be compared against.
 
-#### options.decimal
+#### opts.decimal
 
 Type: `number`  
 Default: `0`
 
 Number of decimals.
 
-#### options.percSign
+#### opts.percSign
 
 Type: `string`
 
