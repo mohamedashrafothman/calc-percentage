@@ -1,8 +1,8 @@
 {
-  "name": "percent.js",
+  "name": "percent",
   "version": "0.1.0",
   "description": "A simple function to convert numbers to string percentages with options.",
-  "main": "index.js",
+  "main": "percent.js",
   "scripts": {
     "test": "mocha"
   },
@@ -11,5 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^5.1.1"
-  }
+  },
+  "dependencies": {}
 }

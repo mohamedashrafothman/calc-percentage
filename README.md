@@ -1,4 +1,4 @@
-Percent.js
+Percent
 =============
 
 A simple function to convert numbers to string percentages with options.
@@ -22,14 +22,14 @@ percentage(100, 50, {decimal: 3,percSign: true}) // "200.000%"
 ## Install
 
 ```
-$ npm install --save percent.js
+$ npm i percent
 ```
 
 
 ## Usage
 
 ```js
-var { percentage } = require('percentage');
+var { percentage } = require('percent');
 
 percentage(0.12) // "12%"
 percentage(1) // "100%"
