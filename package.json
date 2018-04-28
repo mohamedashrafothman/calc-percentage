@@ -1,5 +1,5 @@
 {
-  "name": "percent",
+  "name": "calc-percentage",
   "version": "0.1.0",
   "description": "A simple function to convert numbers to string percentages with options.",
   "main": "percent.js",

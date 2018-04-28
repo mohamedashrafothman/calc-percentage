@@ -1,4 +1,4 @@
-const {percentage} = require('../percent');
+const {percentage} = require('../calc-percentage');
 const assert = require('assert');
 
 describe('Test Percentage library', ()=> {
